@@ -7,7 +7,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from
 Missouri who specializes in building enteprise level front end experiences for users.
 
-- :telescope: I’m working as a Lead Frontend Software Engineer and helping to build a next generation banking system.
+- :telescope: I’m working as a UX Delivery Manager and leading a team of UX engineers to build a next generation banking system.
 
 - :seedling: Exploring the latest ECMAScript standards in web development
 
